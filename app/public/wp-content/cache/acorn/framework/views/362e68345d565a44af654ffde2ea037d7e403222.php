@@ -1,0 +1,2 @@
+<?php (dynamic_sidebar('sidebar-primary')); ?>
+<?php /**PATH /Users/sohaildangol/Desktop/Projects/Wordpress/wppractice2/app/public/wp-content/themes/sage10/resources/views/sections/sidebar.blade.php ENDPATH**/ ?>
